@@ -50,4 +50,11 @@
     - Membuat Field Foto pada Database
 - Kita bisa mengupload foto di Tambah Data Siswa
 
+## Cara Mengakses Project
+
+1. Untuk mengakses web, localhost/10916019_UAS_ECOM/public
+2. Masuk ke halaman login 
+3. Masukan Username dan Password, maka akan masuk ke halaman utama
+    - Username : admin
+    - Password : admin
     

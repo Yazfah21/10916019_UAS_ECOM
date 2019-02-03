@@ -46,8 +46,8 @@
 4. Mengikuti Tutorial Upload File    
 
 - Di tutorial ini saya membuat upload file seperti :
-    1. Tambah Form Upload 
-    2. Membuat Field Foto pada Database
-Kita bisa mengupload foto ke dalam database
+    - Tambah Form Upload 
+    - Membuat Field Foto pada Database
+- Kita bisa mengupload foto ke dalam database
 
     

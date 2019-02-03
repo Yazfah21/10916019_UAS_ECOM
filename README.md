@@ -37,7 +37,7 @@
 
 3. Mengikuti Tutorial Login 
 
-    - MembuatTampilan Login 
+    - Membuat Tampilan Login 
     - Membuat Migration Table Login
     - Membut Model User
     - Membuat User Admin melalui Seeder

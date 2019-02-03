@@ -6,6 +6,12 @@
 - NAMA  : Muhamad Yazril Rizky Fahlevi
 - Kelas : MI-1
 
+## Artikel Laravel
+
+Laravel adalah sebuah framework PHP yang dirilis dibawah lisensi MIT, dibangun dengan konsep MVC (model view controller). Laravel adalah pengembangan website berbasis MVP yang ditulis dalam PHP yang dirancang untuk meningkatkan kualitas perangkat lunak dengan mengurangi biaya pengembangan awal dan biaya pemeliharaan, dan untuk meningkatkan pengalaman bekerja dengan aplikasi dengan menyediakan sintaks yang ekspresif, jelas dan menghemat waktu. 
+
+laravel menggunakan PHP sebagai bahasa pemrograman nya dan saat ini laravel merupakan salah satu framework populer yang banyak digunakan oleh programer maupun orang - orang yang masih belajar pemrograman. kelebihan dari laravel ini adalah pengembang dapat menghemat biaya sebaik mungkin, selain itu perawatan dari aplikasi berbasis laravel ini bisa dikatakan mudah dalam perawatan nya serta menyediakan pengalaman kerja dengan syntax yang ekspresif dan jelas sehingga dapat menghemat waktu developer dalam mengembangkan apikasinya.
+
 ## Kebutuhan Sistem
 1. Web Browser
 2. PHP 7.1.3 atau lebih tinggi

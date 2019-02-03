@@ -31,6 +31,7 @@
 2. Mengikuti Tutorial Eloquent Relationship
 
     - Menjelaskan bagaimana membuat relasi dua tabel menggunakan fitur canggih dari Laravel, yaitu Relationship Eloquent. Kita tidak perlu  repot-repot lagi membuat sintaks query JOIN JOIN, semuanya sudah dimudahkan dengan menggunakan eloquent, dan untuk memanggil relasinya pun cukup mudah.
+    
         - Di tutorial ini atribut Kelas pada tabel siswa akan direlasikan dengan tabel kelas.
         - Jadi kita membuat tabel siswa di tutorial ini.
 

@@ -44,7 +44,7 @@
     
 4. Mengikuti Tutorial Upload File    
  
-- Di tutorial ini saya membuat upload file seperti :
+- Di tutorial ini saya membuat :
     - Pengkonfigurasian Storage
     - Tambah Form Upload 
     - Membuat Field Foto pada Database

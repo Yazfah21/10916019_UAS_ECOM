@@ -29,7 +29,7 @@
 
 2. Mengikuti Tutorial Eloquent Relationship
 
-    - dilakukan Eloquent Relationship atau penggabungan relasi dua tabel yang mempunyai kelebihan tidak perlu membuat syntax query Join Join.
+    - Dilakukan Eloquent Relationship atau penggabungan relasi dua tabel yang mempunyai kelebihan tidak perlu membuat syntax query Join Join.
         - Di tutorial ini atribut Kelas pada tabel siswa akan direlasikan dengan tabel kelas.
         - Jadi kita membuat tabel siswa di tutorial ini.
 

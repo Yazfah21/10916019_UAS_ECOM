@@ -16,9 +16,8 @@
 ## Langkah-langkah membangun Project
 1. Mengikuti tutorial Laravel - Integrate AdminLTE & Make Simple CRUD
     - Pertama kita menginstall laravel terlebih dahulu, melalui Composer
-    - Kedua Setup Composer
     - Lalu setelah selesai menginstall, Integrasi Laravel dengan Template
-    - Membuat CRUD - Read Data
+    - Membuat Read Data
         - Membuat Tabel dengan Migration
         - Membuat Dummy Data menggunakan Database Seed
         - Menampilkan Data di Views
@@ -30,8 +29,7 @@
 
 2. Mengikuti Tutorial Eloquent Relationship
 
-    - Menjelaskan bagaimana membuat relasi dua tabel menggunakan fitur canggih dari Laravel, yaitu Relationship Eloquent. Kita tidak perlu  repot-repot lagi membuat sintaks query JOIN JOIN, semuanya sudah dimudahkan dengan menggunakan eloquent, dan untuk memanggil relasinya pun cukup mudah.
-    
+    - dilakukan Eloquent Relationship atau penggabungan relasi dua tabel yang mempunyai kelebihan tidak perlu membuat syntax query Join Join.
         - Di tutorial ini atribut Kelas pada tabel siswa akan direlasikan dengan tabel kelas.
         - Jadi kita membuat tabel siswa di tutorial ini.
 
@@ -39,16 +37,17 @@
 
     - Membuat Tampilan Login 
     - Membuat Migration Table Login
-    - Membut Model User
+    - Membuat Model User
     - Membuat User Admin melalui Seeder
     - Modifikasi LoginController
-    - Membuat Tombol Logout 
+    - Membuat fungsi Tombol Logout 
     
 4. Mengikuti Tutorial Upload File    
-
+ 
 - Di tutorial ini saya membuat upload file seperti :
+    - Pengkonfigurasian Storage
     - Tambah Form Upload 
     - Membuat Field Foto pada Database
-- Kita bisa mengupload foto ke dalam database
+- Kita bisa mengupload foto di Tambah Data Siswa
 
     

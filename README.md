@@ -35,7 +35,7 @@
     - Jadi kita membuat tabel siswa di tutorial ini.
 
 3. Mengikuti Tutorial Login 
-    Di tutorial ini saya membuat
+   - Di tutorial ini saya membuat
     - Tampilan Login 
     - Membuat Migration Table Login
     - Membut Model User

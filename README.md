@@ -35,8 +35,8 @@
     - Jadi kita membuat tabel siswa di tutorial ini.
 
 3. Mengikuti Tutorial Login 
-  1. Di tutorial ini saya membuat
-    - Tampilan Login 
+
+    - MembuatTampilan Login 
     - Membuat Migration Table Login
     - Membut Model User
     - Membuat User Admin melalui Seeder
